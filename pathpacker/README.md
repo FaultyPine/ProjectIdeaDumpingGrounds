@@ -1,3 +1,5 @@
+C:\\Dev\\ProjectIdeaDumpingGrounds\\pathpacker\\testdir
+
 A filepath compression scheme
 
 concept stolen from guerrilla game's data pipelines talk where they do this
@@ -10,8 +12,8 @@ but if we know the number of files/folders in each folder, we can compress this 
 
 imagine the folder structure:
 
-```
-Folder1 -
+``` 
+Folder1 - 
 --------- Subfolder
                     |
                     ------- Subsubfolder
