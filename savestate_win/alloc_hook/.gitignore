@@ -1,0 +1,20 @@
+# Ignore CMake build outputs
+/build/
+
+# Ignore vcpkg installed artifacts
+/vcpkg_installed/
+
+# Common IDE / build artifacts
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Binaries
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.obj
+*.lib
